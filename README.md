@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Disha T S</h1>
-<h3 align="center">I’m a 3rd-year Information Science Engineering student with a strong passion for full-stack web development. Over the years, I’ve gained hands-on experience working with technologies like HTML, CSS, JavaScript, React.js, and Django</h3>
+<h3 align="center">I’m a 4th-year Information Science Engineering student with a strong passion for full-stack web development. Over the years, I’ve gained hands-on experience working with technologies like HTML, CSS, JavaScript, React.js, and Django</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/disha-siddaramu-69b368268) 
